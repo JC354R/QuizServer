@@ -1,0 +1,25 @@
+{
+  "pytania": [
+    {
+      "tresc": "Ktora liczba jest naturalna",
+      "odpA": "-20",
+      "odpB": "12",
+      "odpC": "1.2",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Ktora liczba jest pierwsza",
+      "odpA": "17",
+      "odpB": "18",
+      "odpC": "23",
+      "poprawna": 2
+    },
+    {
+      "tresc": "1+2*2+2 = ?",
+      "odpA": "8",
+      "odpB": "12",
+      "odpC": "11",
+      "poprawna": 7
+    }
+  ]
+}
