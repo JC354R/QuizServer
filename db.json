@@ -1,5 +1,4 @@
 {
-  [
     {
       "tresc": "Ktora liczba jest naturalna",
       "odpA": "-20",
@@ -21,5 +20,4 @@
       "odpC": "11",
       "poprawna": 7
     }
-  ]
 }
